@@ -1,4 +1,3 @@
-
 {
   "name": "react-native-native-toast-library",
   "version": "1.0.0",
@@ -14,5 +13,8 @@
   "license": "",
   "peerDependencies": {
     "react-native": "^0.41.2"
+  },
+  "devDependencies": {
+    "react-native": "0.41.2"
   }
 }
